@@ -1,0 +1,11 @@
+{
+  "name": "yt-search",
+  "version": "1.0.0",
+  "description": "Search yt videos directly through url instead going yt.com -> search",
+  "main": "index.js",
+  "author": "CharukaHS",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
