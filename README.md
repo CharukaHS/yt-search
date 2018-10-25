@@ -1,6 +1,7 @@
-# Search YouTube videos through url
+# Search YouTube videos through addressbar
 
-Had to make this because firefox doesn't support search in youtube like in chrome
+~~Had to make this because firefox doesn't support search in youtube like in chrome~~
+**[IT DOES!!] (https://support.mozilla.org/en-US/questions/1177556)** 🤗
 
 ### How to use
 1. pm2 start index.js --watch
